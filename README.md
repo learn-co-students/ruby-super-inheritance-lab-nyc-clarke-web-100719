@@ -1,6 +1,6 @@
 # Ruby Super Inheritance Lab 
 
-## Objectives
+## aObjectives
 
 1. Define two classes, one of which inherits from another. 
 2. Define methods in the child class that use the `super` keyword to inherit from and augment methods in the parent class. 
